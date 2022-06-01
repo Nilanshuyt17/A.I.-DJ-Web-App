@@ -1,0 +1,53 @@
+body {
+    background-size: cover;
+}
+.heading {
+    font-size: 40px;
+    font-weight: bolder;
+    width: 100%;
+    margin: 0px;
+    font-family: 'Inspiration', cursive;
+    letter-spacing: 30px;
+    text-shadow: 5px 5px 2px darkblue ;
+}
+#NOTE {
+    font-size: 20px;
+    font-family: 'Akaya Telivigala', cursive;
+    color: black;
+    font-weight: normal;
+    letter-spacing: 1px;
+    text-shadow: none;
+}
+.div_speed{
+    float: left;
+}
+.div_speed img {
+    width: 400px;
+    border-radius: 200px;
+}
+#speed {
+    font-size: 23px;
+    margin: 15px;
+    font-family: 'Akaya Telivigala', cursive;
+}
+.div_volume{
+    float: right;
+}
+.div_volume img {
+    width: 400px;
+    border-radius: 200px;
+}
+#volume {
+    font-size: 23px;
+    margin: 15px;
+    font-family: 'Akaya Telivigala', cursive;
+}
+.play_button {
+    font-size: 30px;
+    width: 13%;
+    border-radius: 20px;
+}
+canvas {
+    box-shadow: 5px 5px 8px white;
+    border: 5px white solid;
+}
